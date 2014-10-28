@@ -1,0 +1,5 @@
+for i in *
+do
+echo $i
+cp "$i" "`echo $i | sed 's/PNG/png/'`"
+done 

@@ -1,0 +1,15 @@
+fr.utt.isi.lo02.huitamericain.console
+fr.utt.isi.lo02.huitamericain.ihm
+fr.utt.isi.lo02.huitamericain.ihm.audio
+fr.utt.isi.lo02.huitamericain.ihm.chargement
+fr.utt.isi.lo02.huitamericain.ihm.composant
+fr.utt.isi.lo02.huitamericain.ihm.popup
+fr.utt.isi.lo02.huitamericain.main
+fr.utt.isi.lo02.huitamericain.partie
+fr.utt.isi.lo02.huitamericain.plateau
+fr.utt.isi.lo02.huitamericain.plateau.carte
+fr.utt.isi.lo02.huitamericain.plateau.carte.drag
+fr.utt.isi.lo02.huitamericain.plateau.porteur
+fr.utt.isi.lo02.huitamericain.plateau.porteur.joueur
+fr.utt.isi.lo02.huitamericain.plateau.porteur.joueur.comportement
+fr.utt.isi.lo02.huitamericain.plateau.porteur.pioche
